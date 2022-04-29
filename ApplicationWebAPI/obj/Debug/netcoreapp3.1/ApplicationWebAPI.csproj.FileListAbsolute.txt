@@ -1,0 +1,71 @@
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.exe
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.deps.json
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.runtimeconfig.json
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.runtimeconfig.dev.json
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.dll
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.pdb
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.AssemblyInfoInputs.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.AssemblyInfo.cs
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.csproj.CoreCompileInputs.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ApplicationWebAPI.StaticWebAssets.Manifest.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.RazorTargetAssemblyInfo.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.dll
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.pdb
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.genruntimeconfig.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.csproj.AssemblyReference.cache
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.csproj.CopyComplete
+D:\AutoEntreprise\Eductive\B2\Architecture logicielle\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.exe
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.deps.json
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.runtimeconfig.json
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.runtimeconfig.dev.json
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\ApplicationWebAPI.pdb
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.csproj.AssemblyReference.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.AssemblyInfoInputs.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.AssemblyInfo.cs
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.csproj.CoreCompileInputs.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ApplicationWebAPI.StaticWebAssets.Manifest.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.RazorTargetAssemblyInfo.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.csproj.CopyComplete
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.pdb
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\obj\Debug\netcoreapp3.1\ApplicationWebAPI.genruntimeconfig.cache
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ESGI\2eme annee\Algo\AlgoRiCodeMohamed\TP 1 - Application web API\ApplicationWebAPI\ApplicationWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
